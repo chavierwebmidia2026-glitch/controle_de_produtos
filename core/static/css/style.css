@@ -1,0 +1,33 @@
+/* Teste do CSS */
+
+body {
+    background-color: #200ec2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    color: #e63946;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    color: #1d3557;
+}
+
+p {
+    color: #dad7d7;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+section {
+    background-color: rgb(172, 41, 41);
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
