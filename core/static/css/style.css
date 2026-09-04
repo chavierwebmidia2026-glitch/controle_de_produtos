@@ -5,19 +5,12 @@
 
 
 body {
-    background-color: #95af37;
+    background-color: #5137af;
     font-family: Arial, sans-serif;
     margin: 0;
     
-    
 }
 
-
-.princinpal{
-    background-color: #0510ad;
-
-
-}
 
 h1 {
     color: #f3fcf2;
@@ -35,11 +28,3 @@ p {
     line-height: 1.6;
 }
 
-section {
-    background-color: rgb(238, 238, 238);
-    padding: 25px;
-    margin: 20px auto;
-    max-width: 800px;
-    border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-}
