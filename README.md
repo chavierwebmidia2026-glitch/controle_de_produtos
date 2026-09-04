@@ -1,10 +1,8 @@
 # Controle de Produtos
 
-Projeto desenvolvido com **Python e Django** com o objetivo de praticar conceitos de desenvolvimento web, organização de projetos e gerenciamento de informações.
+Sistema web desenvolvido com **Python e Django** para praticar conceitos de desenvolvimento web, administração e gerenciamento de produtos.
 
-A aplicação tem como proposta trabalhar com **controle e administração de produtos**, utilizando o framework Django para estruturar o sistema, suas páginas, rotas e funcionalidades.
-
-## Tecnologias utilizadas
+## 🚀 Tecnologias
 
 * Python
 * Django
@@ -13,17 +11,22 @@ A aplicação tem como proposta trabalhar com **controle e administração de pr
 * Bootstrap
 * SQLite
 
-## Objetivos do projeto
+## 📚 Objetivo
 
-* Praticar desenvolvimento web com Django
-* Trabalhar com templates e páginas HTML
-* Criar e organizar rotas
-* Trabalhar com arquivos estáticos
-* Desenvolver uma estrutura de administração
-* Aprender gerenciamento de dados com Django
+Projeto desenvolvido durante os estudos de Django, com foco em:
 
-## Estrutura
+* Estrutura de projetos Django
+* Criação de aplicações
+* Templates
+* URLs e Views
+* Arquivos estáticos
+* Banco de dados
+* Administração de produtos
 
-O projeto possui um aplicativo principal chamado `core`, responsável pela organização das páginas e funcionalidades da aplicação.
+## 🗂️ Aplicação
 
-Este projeto está sendo desenvolvido durante as aulas como parte do processo de aprendizado em **Django e desenvolvimento web com Python**.
+O projeto possui o aplicativo `core`, responsável pela estrutura principal da aplicação.
+
+## 👨‍💻 Status
+
+Projeto em desenvolvimento e utilizado para fins de estudo e aprendizado em desenvolvimento web com Django.
