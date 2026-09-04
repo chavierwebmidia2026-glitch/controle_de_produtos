@@ -1,11 +1,24 @@
-/* Teste do CSS */
+/* ===============================
+     < CHWM := CHAVIERWEBMÍDIA >
+     < css := PÁGINA STYLE.CSS>
+     ============================ */
+
 
 body {
-    background-color: #200ec2;
+    background-color: #1725ec ! important;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 40px;
 }
+
+
+.princinpal{
+    background-color: #e63946;
+
+
+}
+
+
 
 h1 {
     color: #e63946;
